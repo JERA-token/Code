@@ -1,2 +1,2 @@
 # Code
-ERC20 code of JERA
+BEP20 code of JERA
